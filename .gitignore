@@ -1,0 +1,15 @@
+# Backend Python virtual environment
+Back/venv/
+Back/.venv/
+
+# Python cache
+Back/__pycache__/
+Back/*.pyc
+
+# Frontend node modules
+Front/node_modules/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
